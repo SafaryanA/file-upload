@@ -1,0 +1,10 @@
+.cache
+.idea
+node_modules
+.parcel-cache
+dist
+
+vladiki_dzevov_arac_.js
+Vladiki_tipi_bayc_miqij_dzevapoxac.js
+package-lock.json
+desktop.ini
